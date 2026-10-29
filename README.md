@@ -17,4 +17,4 @@ Aplicación web hecha con Streamlit para explorar un conjunto de datos de anunci
 
 ## Aplicación desplegada
 
-https://APP_NAME.onrender.com/
+https://vehicles-dashboard-qaw8.onrender.com/
